@@ -7,7 +7,7 @@
     "FARGATE"
   ],
   "executionRoleArn": "arn:aws:iam::484922590438:role/MythicalMysfitsCoreStack-EcsServiceRole-60XMVZ0BEBNH",
-  "taskRoleArn": "MythicalMysfitsCoreStack:ECSTaskRole",
+  "taskRoleArn": "arn:aws:iam::484922590438:role/MythicalMysfitsCoreStack-ECSTaskRole-18LN9IHUSGM3Z",
   "containerDefinitions": [
     {
       "name": "MythicalMysfits-Service",
