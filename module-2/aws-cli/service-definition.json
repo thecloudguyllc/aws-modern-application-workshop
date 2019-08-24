@@ -24,7 +24,7 @@
     {
       "containerName": "MythicalMysfits-Service",
       "containerPort": 8080,
-      "targetGroupArn": "arn:aws:elasticloadbalancing:us-east-1:484922590438:loadbalancer/net/mysfits-nlb/85f3f6ba0f8b7360"
+      "targetGroupArn": "arn:aws:elasticloadbalancing:us-east-1:484922590438:targetgroup/MythicalMysfits-TargetGroup/8c78f7319fe3f965"
     }
   ]
 }
